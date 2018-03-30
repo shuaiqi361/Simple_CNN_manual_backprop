@@ -10,3 +10,6 @@
 #### 3. A max pooling layer is stacked after the Relu activation function, with a kernel size 3-by-3, and stride 3 [#image, 8, 8]
 
 #### 4. Then the feature map is vectorized to form a fully connected layer[#image, 64], and then squeeze into a sigmoid node and finally produce the output [#image, 1], the sigmoid cross entropy loss is implemented here
+
+##### The curated dataset can be downloaded:
+https://drive.google.com/open?id=130tA6FiXS-7K7I_e_OeolmDiKiWmHyvE
